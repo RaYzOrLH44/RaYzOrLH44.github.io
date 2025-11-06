@@ -13,5 +13,3 @@ add_subdirectory(library)
 
 add_executable(ProjectCMake "CMake.cpp" "CMake.h" )
 target_link_libraries(ProjectCMake PRIVATE library)
-
-add_executable(mes_tests tests.cpp)

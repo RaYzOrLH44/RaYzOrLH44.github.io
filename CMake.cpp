@@ -1,4 +1,3 @@
-﻿
 #include "CMake.h"
 #include "moaths.h"
 

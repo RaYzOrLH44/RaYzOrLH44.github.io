@@ -7,7 +7,6 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 set(CPM_DOWNLOAD_VERSION 0.38.8)
 include(cmake/CPM.cmake)
-include(cmake/Catch.cmake)
 
 CPMAddPackage(
 	NAME Catch2
